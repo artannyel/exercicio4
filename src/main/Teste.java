@@ -38,7 +38,7 @@ public class Teste {
         //t.add(contract2);*/
         
         System.out.println("t = " + t.size());
-        System.out.println("Data: " + t.get(0).getDate());
+        System.out.println("Data: " + t.get(0).getDate() + "Teste");
         //t.remove(contract2);
         
         //System.out.println("t = " + t.size());
